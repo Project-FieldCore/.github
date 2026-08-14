@@ -212,7 +212,7 @@ Cada ambiente (local, integração, teste, produção acadêmica) deve possuir U
 
 ## 👨‍💻 Equipe
 
-Giovana Rafaela · Juliana Nascimento · Maria Eduarda · Milenna Portella
+Giovana Rafaela · Gustavo Sousa · Juliana Nascimento · Maria Eduarda · Milenna Portella
 
 ---
 
