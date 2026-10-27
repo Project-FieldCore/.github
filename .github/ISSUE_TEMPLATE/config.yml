@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product Backlog (GitHub Project)
+    url: https://github.com/orgs/Project-FieldCore/projects/9
+    about: Board canônico FieldOps — Product Backlog (Notion)
+  - name: Convenção de branches, commits e issues
+    url: https://github.com/Project-FieldCore/docs/blob/main/PROJECT_MANAGEMENT/BRANCH_COMMIT_CONVENTION.md
+    about: Como nomear PBI, branches, commits e PRs
